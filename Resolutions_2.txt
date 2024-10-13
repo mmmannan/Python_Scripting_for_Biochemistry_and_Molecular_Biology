@@ -1,0 +1,14 @@
+For the PDB ID 1ddo, the resolution is 3.1 in Angstroms.
+For the PDB ID 1ie9, the resolution is 1.4 in Angstroms.
+For the PDB ID 2pkr, the resolution is 2.4 in Angstroms.
+For the PDB ID 3brh, the resolution is 2.2 in Angstroms.
+For the PDB ID 3fgu, the resolution is 2.15 in Angstroms.
+For the PDB ID 3iva, the resolution is 2.7 in Angstroms.
+For the PDB ID 3osk, the resolution is 1.8 in Angstroms.
+For the PDB ID 3vnd, the resolution is 2.6 in Angstroms.
+For the PDB ID 4ey7, the resolution is 2.35 in Angstroms.
+For the PDB ID 4eyr, the resolution is 1.8 in Angstroms.
+For the PDB ID 5eu9, the resolution is 2.05 in Angstroms.
+For the PDB ID 5veu, the resolution is 2.91 in Angstroms.
+For the PDB ID 6zt7, the resolution is 1.85 in Angstroms.
+For the PDB ID 7tim, the resolution is 1.9 in Angstroms.
